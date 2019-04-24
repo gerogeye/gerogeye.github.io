@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[我的第一个博客]]></title>
+    <url>%2F2019%2F04%2F24%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[大家好！我叫乔志业，英文名geroge，可以叫我乔治。这是我写的第一个个人博客，请多多关照。在以后的日子里，我会继续努力学习，和大家共同进步。字数够了没有，先看看，不够的话再加。谢谢！ 第一天怎么做 第一天应该这样这样这样自言自语自言自语自言自语自言自语在吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱吱在。 首先 但是大师傅电风扇给了对方，当时的感受老卡感觉少了点。 其次 大撒法规定反对发射点方法的撒过的发射点发射点 再会！]]></content>
+      <categories>
+        <category>个人资料</category>
+      </categories>
+      <tags>
+        <tag>me</tag>
+        <tag>介绍</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F04%2F22%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
