@@ -13,6 +13,18 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Linux命令收集]]></title>
+    <url>%2F2019%2F04%2F24%2Flinux%E5%91%BD%E4%BB%A4%E6%94%B6%E9%9B%86%2F</url>
+    <content type="text"><![CDATA[Linux命令收集，要持续更新哦！ 基础命令1234567$ ll -a //显示所有文件，包括隐藏的$ ls -a //相当于ll$ rmdir //删除文件夹$ rm -rf //删除文件夹下所有内容$ mkdir //创建文件夹$ vi [新文件名] //保存后创建文件$ vi [已有文件] //编辑文件 vi命令123i //命令模式切换成输入模式esc //输入模式切换成命令模式（末行模式切换成命令模式）: //命令模式切换成末行模式 末行模式下命令w 保存q 退出wq 保存并退出q！强制退出（不保存）]]></content>
+      <categories>
+        <category>技术资料</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+        <tag>命令</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F04%2F22%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
